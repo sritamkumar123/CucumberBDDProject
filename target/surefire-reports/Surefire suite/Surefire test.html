@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Apr 01 21:30:42 IST 2023</td>
+<td>Started on:</td><td>Sat Apr 01 23:40:09 IST 2023</td>
 </tr>
-<tr><td>Total time:</td><td>19 seconds (19984 ms)</td>
+<tr><td>Total time:</td><td>63 seconds (63790 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -81,11 +81,11 @@ function toggleAllBoxes() {
   (Session info: chrome=111.0.5563.147)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.2.1&apos;, revision: &apos;ac4d0fdd4a&apos;
-System info: host: &apos;LAPTOP-JUND32GT&apos;, ip: &apos;192.168.18.189&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+System info: host: &apos;LAPTOP-JUND32GT&apos;, ip: &apos;192.168.18.189&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;18.0.2.1&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [763cb86553595367fe2c9398e70e8e28, findElement {using=xpath, value=//button[@class=&apos;btn btn-default btn-lg1&apos;]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SRITAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63346}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63346/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 763cb86553595367fe2c9398e70e8e28
+Command: [d31aa92253e53f076be4041cba2b432f, findElement {using=xpath, value=//button[@class=&apos;btn btn-default btn-lg1&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SRITAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65303/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d31aa92253e53f076be4041cba2b432f
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
@@ -102,22 +102,20 @@ Session ID: 763cb86553595367fe2c9398e70e8e28
 	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
 	at PageObject.HomePage.clickOnsearchBtn(HomePage.java:30)
 	at StepDefinitions.SearchStepDef.clicks_on_search_button(SearchStepDef.java:18)
-	at ?.Clicks on search button(file:///C:/Users/SRITAMLINKAN/eclipse-workspace/cucumberproject/./Features/search.feature:12)
-... Removed 5 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1044639817", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1044639817'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[@class=&apos;btn btn-default btn-lg1&apos;]&quot;}
+	at ✽.Clicks on search button(file:///C:/Users/SRITAMLINKAN/eclipse-workspace/cucumberproject/./Features/search.feature:12)
+... Removed 3 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1375979535", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1375979535'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[@class=&apos;btn btn-default btn-lg1&apos;]&quot;}
   (Session info: chrome=111.0.5563.147)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.2.1&apos;, revision: &apos;ac4d0fdd4a&apos;
-System info: host: &apos;LAPTOP-JUND32GT&apos;, ip: &apos;192.168.18.189&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+System info: host: &apos;LAPTOP-JUND32GT&apos;, ip: &apos;192.168.18.189&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;18.0.2.1&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [763cb86553595367fe2c9398e70e8e28, findElement {using=xpath, value=//button[@class=&apos;btn btn-default btn-lg1&apos;]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SRITAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63346}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63346/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 763cb86553595367fe2c9398e70e8e28
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+Command: [d31aa92253e53f076be4041cba2b432f, findElement {using=xpath, value=//button[@class=&apos;btn btn-default btn-lg1&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\SRITAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65303/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d31aa92253e53f076be4041cba2b432f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
@@ -134,10 +132,10 @@ Session ID: 763cb86553595367fe2c9398e70e8e28
 	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
 	at PageObject.HomePage.clickOnsearchBtn(HomePage.java:30)
 	at StepDefinitions.SearchStepDef.clicks_on_search_button(SearchStepDef.java:18)
-	at ?.Clicks on search button(file:///C:/Users/SRITAMLINKAN/eclipse-workspace/cucumberproject/./Features/search.feature:12)
+	at ✽.Clicks on search button(file:///C:/Users/SRITAMLINKAN/eclipse-workspace/cucumberproject/./Features/search.feature:12)
 </pre></div></td>
 <td>13</td>
-<td>CucumberRunner.TestRunner@740cae06</td></tr>
+<td>CucumberRunner.TestRunner@54c5a2ff</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -150,8 +148,8 @@ Session ID: 763cb86553595367fe2c9398e70e8e28
 <tr>
 <td title='CucumberRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: CucumberRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Successfully login with valid credentails", "login"</td>
 <td></td>
-<td>6</td>
-<td>CucumberRunner.TestRunner@740cae06</td></tr>
+<td>50</td>
+<td>CucumberRunner.TestRunner@54c5a2ff</td></tr>
 </table><p>
 </body>
 </html>
