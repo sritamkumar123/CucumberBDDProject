@@ -1,8 +1,11 @@
 PageObject\RegistrationPage.class
 PageObject\BasePage.class
 PageObject\LoginPage.class
+StepDefinitions\CloseBrowser.class
 PageObject\HomePage.class
 StepDefinitions\BaseClass.class
+StepDefinitions\RegistrationStepDef.class
 StepDefinitions\StepDef.class
 CucumberRunner\TestRunner.class
+StepDefinitions\SearchStepDef.class
 utilities\ReadConfig.class
