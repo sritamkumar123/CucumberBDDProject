@@ -1,0 +1,354 @@
+23:22:14.821 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:22:14.987 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:22:19.200 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:22:19.436 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:22:20.003 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:22:20.019 [main] INFO  StepDefinitions.StepDef - page title matched
+23:22:20.491 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+23:22:20.499 [main] INFO  StepDefinitions.StepDef - page title matched
+23:22:21.586 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:22:21.738 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:22:22.866 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:22:23.105 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:22:23.625 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:22:23.633 [main] INFO  StepDefinitions.StepDef - page title matched
+23:22:24.009 [main] INFO  StepDefinitions.StepDef - Screenshot captured successully
+23:22:24.153 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+23:23:28.888 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:23:29.048 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:23:30.800 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:23:31.035 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:23:31.569 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:23:31.586 [main] INFO  StepDefinitions.StepDef - page title matched
+23:23:32.017 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+23:23:32.024 [main] INFO  StepDefinitions.StepDef - page title matched
+23:23:32.156 [main] INFO  StepDefinitions.StepDef - driver got closed
+23:23:32.214 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+23:23:33.134 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:23:33.283 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:23:34.436 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:23:34.671 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:23:35.198 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:23:35.208 [main] INFO  StepDefinitions.StepDef - page title matched
+23:23:35.281 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+23:23:35.673 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+23:23:35.726 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+23:23:35.868 [main] INFO  StepDefinitions.StepDef - driver got closed
+23:23:36.047 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+23:24:45.174 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:24:45.343 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:24:46.473 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:24:46.711 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:24:47.228 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:24:47.246 [main] INFO  StepDefinitions.StepDef - page title matched
+23:24:47.716 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+23:24:47.723 [main] INFO  StepDefinitions.StepDef - page title matched
+23:24:47.789 [main] INFO  StepDefinitions.StepDef - driver got closed
+23:24:47.862 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+23:24:48.783 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+23:24:48.935 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+23:24:50.012 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+23:24:50.239 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+23:24:50.751 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+23:24:50.759 [main] INFO  StepDefinitions.StepDef - page title matched
+23:24:50.828 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+23:24:51.695 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+23:24:51.751 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+23:24:51.850 [main] INFO  StepDefinitions.StepDef - driver got closed
+23:24:51.915 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+11:39:42.029 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+11:39:42.170 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+11:39:42.522 [main] INFO  StepDefinitions.StepDef - Screenshot captured successully
+11:39:42.652 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+11:39:43.240 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+11:39:43.365 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+11:39:43.719 [main] INFO  StepDefinitions.StepDef - Screenshot captured successully
+11:39:43.844 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+11:40:18.802 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+11:40:18.951 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+11:40:21.228 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+11:40:21.388 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+11:40:21.844 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+11:40:21.853 [main] INFO  StepDefinitions.StepDef - page title matched
+11:40:22.276 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+11:40:22.283 [main] INFO  StepDefinitions.StepDef - page title matched
+11:40:22.363 [main] INFO  StepDefinitions.StepDef - driver got closed
+11:40:22.420 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+11:40:23.061 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+11:40:23.184 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+11:40:24.585 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+11:40:24.731 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+11:40:25.261 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+11:40:25.269 [main] INFO  StepDefinitions.StepDef - page title matched
+11:40:25.315 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+11:40:25.776 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+11:40:25.812 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+11:40:25.898 [main] INFO  StepDefinitions.StepDef - driver got closed
+11:40:25.972 [main] INFO  StepDefinitions.StepDef - driver got quit successfully
+13:01:55.849 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:01:56.013 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:02:00.042 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:02:00.192 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:02:00.658 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:02:00.670 [main] INFO  StepDefinitions.StepDef - page title matched
+13:02:01.082 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:02:01.089 [main] INFO  StepDefinitions.StepDef - page title matched
+13:02:01.182 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:02:01.824 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:02:01.954 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:02:03.125 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:02:03.272 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:02:03.726 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:02:03.734 [main] INFO  StepDefinitions.StepDef - page title matched
+13:02:03.783 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:02:04.174 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+13:02:04.213 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+13:02:04.313 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:10:46.498 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:10:46.650 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:10:48.168 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:10:48.321 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:10:48.856 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:10:48.867 [main] INFO  StepDefinitions.StepDef - page title matched
+13:10:49.285 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:10:49.290 [main] INFO  StepDefinitions.StepDef - page title matched
+13:10:49.388 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:10:50.014 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:10:50.154 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:10:52.084 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:10:52.244 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:10:52.734 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:10:52.742 [main] INFO  StepDefinitions.StepDef - page title matched
+13:10:52.794 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:10:53.175 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+13:10:53.213 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+13:10:53.304 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:14:22.641 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:14:22.794 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:14:26.167 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:14:26.438 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:14:27.105 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:14:27.225 [main] INFO  StepDefinitions.StepDef - page title matched
+13:14:27.693 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:14:27.809 [main] INFO  StepDefinitions.StepDef - page title matched
+13:14:28.006 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:14:28.749 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:14:28.873 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:14:30.103 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:14:30.509 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:14:31.141 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:14:31.256 [main] INFO  StepDefinitions.StepDef - page title matched
+13:14:31.406 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:14:32.020 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+13:14:32.161 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+13:14:32.346 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:15:28.838 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:15:28.997 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:15:30.398 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:15:30.668 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:15:31.303 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:15:31.419 [main] INFO  StepDefinitions.StepDef - page title matched
+13:15:31.910 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:15:32.021 [main] INFO  StepDefinitions.StepDef - page title matched
+13:15:32.222 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:15:32.971 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:15:33.095 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:15:35.478 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:15:35.730 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:15:36.921 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:15:37.021 [main] INFO  StepDefinitions.StepDef - page title matched
+13:15:37.169 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:15:37.731 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+13:15:37.902 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+13:15:38.084 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:17:18.124 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:17:18.283 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:17:19.486 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:17:19.641 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:17:20.490 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:17:20.502 [main] INFO  StepDefinitions.StepDef - page title matched
+13:17:21.899 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:17:21.905 [main] INFO  StepDefinitions.StepDef - page title matched
+13:17:22.000 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:17:22.754 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:17:22.889 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:17:24.300 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:17:24.453 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:17:25.145 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:17:25.152 [main] INFO  StepDefinitions.StepDef - page title matched
+13:17:25.198 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:17:25.583 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+13:17:25.621 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+13:17:25.707 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:18:35.226 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:18:35.378 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:18:36.599 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:18:36.756 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:18:47.674 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:18:47.811 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:18:49.284 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:18:49.453 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:27:01.715 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:27:01.878 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:27:03.186 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:27:03.335 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:27:03.783 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:27:03.795 [main] INFO  StepDefinitions.StepDef - page title matched
+13:27:04.200 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:27:04.205 [main] INFO  StepDefinitions.StepDef - page title matched
+13:27:04.303 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:27:05.022 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:27:05.143 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:27:06.509 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:27:06.685 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:27:07.205 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:27:07.211 [main] INFO  StepDefinitions.StepDef - page title matched
+13:27:07.260 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:34:42.810 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:34:42.956 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:34:44.978 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:34:45.132 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:34:45.587 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:34:45.600 [main] INFO  StepDefinitions.StepDef - page title matched
+13:34:46.000 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:34:46.006 [main] INFO  StepDefinitions.StepDef - page title matched
+13:34:46.094 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:34:46.768 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:34:46.898 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:34:48.087 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:34:48.235 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:34:48.890 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:34:48.897 [main] INFO  StepDefinitions.StepDef - page title matched
+13:34:48.946 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:42:35.805 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:42:35.965 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:42:37.716 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:42:37.871 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:42:38.337 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:42:38.350 [main] INFO  StepDefinitions.StepDef - page title matched
+13:42:38.742 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:42:38.748 [main] INFO  StepDefinitions.StepDef - page title matched
+13:42:38.834 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:42:39.626 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:42:39.748 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:42:41.078 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:42:41.221 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:42:41.706 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:42:41.714 [main] INFO  StepDefinitions.StepDef - page title matched
+13:42:41.764 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:42:51.872 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:45:46.427 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:45:46.585 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:45:48.244 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:45:48.399 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:45:48.853 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:45:48.864 [main] INFO  StepDefinitions.StepDef - page title matched
+13:45:49.277 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:45:49.282 [main] INFO  StepDefinitions.StepDef - page title matched
+13:45:49.361 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:45:50.089 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:45:50.213 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:45:51.624 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:45:51.775 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:45:52.326 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:45:52.331 [main] INFO  StepDefinitions.StepDef - page title matched
+13:45:52.378 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+13:52:19.324 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:52:19.481 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:52:21.061 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:52:21.212 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:52:22.084 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:52:22.094 [main] INFO  StepDefinitions.StepDef - page title matched
+13:52:22.541 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+13:52:22.549 [main] INFO  StepDefinitions.StepDef - page title matched
+13:52:22.635 [main] INFO  StepDefinitions.StepDef - driver got closed
+13:52:23.356 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+13:52:23.480 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+13:52:25.604 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+13:52:25.760 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+13:52:26.216 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+13:52:26.222 [main] INFO  StepDefinitions.StepDef - page title matched
+13:52:26.270 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+18:51:38.073 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+18:51:38.237 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+18:51:40.320 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+18:51:40.480 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+18:51:40.962 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+18:51:40.972 [main] INFO  StepDefinitions.StepDef - page title matched
+18:51:41.373 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+18:51:41.378 [main] INFO  StepDefinitions.StepDef - page title matched
+18:51:41.471 [main] INFO  StepDefinitions.StepDef - driver got closed
+18:51:42.158 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+18:51:42.283 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+18:51:43.928 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+18:51:44.086 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+18:51:44.915 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+18:51:44.923 [main] INFO  StepDefinitions.StepDef - page title matched
+18:51:44.976 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+18:51:45.452 [main] INFO  StepDefinitions.StepDef - search button clicked successfully
+18:51:45.485 [main] INFO  StepDefinitions.StepDef - product displayed in the search results successfully
+18:51:45.569 [main] INFO  StepDefinitions.StepDef - driver got closed
+19:19:56.218 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:19:56.370 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:19:58.527 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:19:58.689 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:19:59.184 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:19:59.196 [main] INFO  StepDefinitions.StepDef - page title matched
+19:19:59.590 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+19:19:59.598 [main] INFO  StepDefinitions.StepDef - page title matched
+19:19:59.695 [main] INFO  StepDefinitions.StepDef - driver got closed
+19:20:00.407 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:20:00.540 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:20:02.419 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:20:02.561 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:20:03.063 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:20:03.070 [main] INFO  StepDefinitions.StepDef - page title matched
+19:20:03.118 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+19:53:48.018 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:53:48.169 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:53:50.493 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:53:50.649 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:53:51.402 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:53:51.416 [main] INFO  StepDefinitions.StepDef - page title matched
+19:53:52.657 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+19:53:52.663 [main] INFO  StepDefinitions.StepDef - page title matched
+19:53:52.765 [main] INFO  StepDefinitions.StepDef - driver got closed
+19:53:53.516 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:53:53.642 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:53:54.904 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:53:55.061 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:53:55.805 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:53:55.811 [main] INFO  StepDefinitions.StepDef - page title matched
+19:53:55.861 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+19:55:51.385 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:55:51.538 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:55:55.784 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:55:55.929 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:55:56.500 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:55:56.512 [main] INFO  StepDefinitions.StepDef - page title matched
+19:55:56.985 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+19:55:56.992 [main] INFO  StepDefinitions.StepDef - page title matched
+19:55:57.085 [main] INFO  StepDefinitions.StepDef - driver got closed
+19:55:57.757 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:55:57.888 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:55:59.430 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:55:59.585 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:56:00.077 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:56:00.084 [main] INFO  StepDefinitions.StepDef - page title matched
+19:56:00.130 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully
+19:57:33.066 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:57:33.218 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:57:34.339 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:57:34.487 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:57:34.922 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:57:34.933 [main] INFO  StepDefinitions.StepDef - page title matched
+19:57:35.303 [main] INFO  StepDefinitions.StepDef - user clicked on logout button successfully
+19:57:35.309 [main] INFO  StepDefinitions.StepDef - page title matched
+19:57:35.407 [main] INFO  StepDefinitions.StepDef - driver got closed
+19:57:36.173 [main] INFO  StepDefinitions.StepDef - Setup performed successfully
+19:57:36.300 [main] INFO  StepDefinitions.StepDef -  browser lunched successfully
+19:57:37.379 [main] INFO  StepDefinitions.StepDef - user opened url successfully
+19:57:37.523 [main] INFO  StepDefinitions.StepDef - Email and password entered successfully
+19:57:38.030 [main] INFO  StepDefinitions.StepDef - login button clicked successfully
+19:57:38.036 [main] INFO  StepDefinitions.StepDef - page title matched
+19:57:38.083 [main] INFO  StepDefinitions.StepDef - user entered search producted into the search field successfully

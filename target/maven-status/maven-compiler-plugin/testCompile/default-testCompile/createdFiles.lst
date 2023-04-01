@@ -1,0 +1,8 @@
+PageObject\RegistrationPage.class
+PageObject\BasePage.class
+PageObject\LoginPage.class
+PageObject\HomePage.class
+StepDefinitions\BaseClass.class
+StepDefinitions\StepDef.class
+CucumberRunner\TestRunner.class
+utilities\ReadConfig.class
